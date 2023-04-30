@@ -1,0 +1,29 @@
+{
+  "name": "inquirer",
+  "version": "8.2.4",
+  "description": "This contains the Module 10 challenge of the Rice Coding Bootcamp",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnguyen1013/10-SVG-Logo-Maker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnguyen1013/10-SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/cnguyen1013/10-SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
