@@ -9,8 +9,7 @@ const questions = [
         type: 'list',
         name: 'shape',
         message: 'What shape do you want?',
-        choices: ['None', 'Circle', 'Triangle', 'Square']
-
+        choices: ['Circle', 'Triangle', 'Square']
     }, 
     {
         type: 'input',
@@ -86,7 +85,6 @@ function init() {
     .catch((error) => 
         console.error(error));
 }
-
 
 // Function call to initialize app
 init();
